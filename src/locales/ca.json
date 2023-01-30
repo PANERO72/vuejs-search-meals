@@ -1,0 +1,46 @@
+{
+    "menu": {
+      "home": "Inici",
+      "search-meals": "Cercar Menjars",
+      "meals-by-letter": "Menjars per Lletres",
+      "meals-by-ingredients": "Menjars per Ingredients"
+    },
+    "locale": {
+      "lang": "Catalá"
+    },
+    "home-page": {
+      "radom-meals-title": "Menjars Aleatoris"
+    },
+    "search-input": {
+      "text-input": "Escriviu per cercar..."
+    },
+    "search-by-name": {
+      "meals-by-name": "Menjars per Nom",
+      "meal-name": "Nom:",
+      "meal-country": "País:",
+      "watch-on-youtube": "Veure a YouTube",
+      "view-details": "Veure Detalls...",
+      "view-source": "Lloc Web..."
+    },
+    "search-by-letter": {
+      "meals-by-letter": "Menjars per Lletre"
+    },
+    "search-by-ingredients": {
+      "meal-by-ingredients": "Menjar per Ingredients",
+      "not-meals-to-display": "!No hi ha menjars per mostrar!"
+    },
+    "meals-by-ingredients": {
+      "meals-by-ingredients": "Menjars per Ingredients",
+      "see-more-link": "Veure més..."
+    },
+    "meals-details": {
+      "page-title": "Detalls del Menjar",
+      "meal-name": "Nom:",
+      "meal-category": "Categoria:",
+      "meal-country": "País:",
+      "meal-tags": "Etiquetes:",
+      "meal-instructions": "Instruccions:",
+      "meal-ingredients": "Ingredients:",
+      "meal-measures": "Mesures:"
+    }
+  }

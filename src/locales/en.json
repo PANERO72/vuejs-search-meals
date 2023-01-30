@@ -1,0 +1,46 @@
+{
+    "menu": {
+      "home": "Home",
+      "search-meals": "Search Meals",
+      "meals-by-letter": "Meals by Letters",
+      "meals-by-ingredients": "Meals by Ingredients"
+    },
+    "locale": {
+        "lang": "English"
+    },
+    "home-page": {
+      "radom-meals-title": "Random Meals"
+    },
+    "search-input": {
+        "text-input": "Type to search..."
+    },
+    "search-by-name": {
+      "meals-by-name": "Meals by Name",
+      "meal-name": "Name:",
+      "meal-country": "Country:",
+      "watch-on-youtube": "Watch on YouTube",
+      "view-details": "View Details...",
+      "view-source": "Website..."
+    },
+    "search-by-letter": {
+      "meals-by-letter": "Meals by Letters"
+    },
+    "search-by-ingredients": {
+      "meal-by-ingredients": "Meal by Ingredients",
+      "not-meals-to-display": "There are no meals to display!"
+    },
+    "meals-by-ingredients": {
+      "meals-by-ingredients": "Meals by Ingredients",
+      "see-more-link": "See more..."
+    },
+    "meals-details": {
+      "page-title": "Meal Details",
+      "meal-name": "Name:",
+      "meal-category": "Category:",
+      "meal-country": "Country:",
+      "meal-tags": "Tags:",
+      "meal-instructions": "Instructions:",
+      "meal-ingredients": "Ingredients:",
+      "meal-measures": "Measures:"
+    }
+  }

@@ -1,0 +1,46 @@
+{
+    "menu": {
+      "home": "Inicio",
+      "search-meals": "Buscar Comidas",
+      "meals-by-letter": "Comidas por Letras",
+      "meals-by-ingredients": "Comidas por Ingredientes"
+    },
+    "locale": {
+        "lang": "Español"
+    },
+    "home-page": {
+      "radom-meals-title": "Comidas Aleatorias"
+    },
+    "search-input": {
+        "text-input": "Escriba para buscar..."
+    },
+    "search-by-name": {
+      "meals-by-name": "Comidas por Nombre",
+      "meal-name": "Nombre:",
+      "meal-country": "País:",
+      "watch-on-youtube": "Ver en YouTube",
+      "view-details": "Ver Detalles...",
+      "view-source": "Sitio Web..."
+    },
+    "search-by-letter": {
+      "meals-by-letter": "Comidas por Letras"
+    },
+    "search-by-ingredients": {
+      "meal-by-ingredients": "Comida por Ingredientes",
+      "not-meals-to-display": "!No hay comidas para mostrar!"
+    },
+    "meals-by-ingredients": {
+      "meals-by-ingredients": "Comidas por Ingredientes",
+      "see-more-link": "Ver más..."
+    },
+    "meals-details": {
+      "page-title": "Detalles de la Comida",
+      "meal-name": "Nombre:",
+      "meal-category": "Categoría:",
+      "meal-country": "País:",
+      "meal-tags": "Etiquetas:",
+      "meal-instructions": "Instrucciones:",
+      "meal-ingredients": "Ingredientes:",
+      "meal-measures": "Medidas:"
+    }
+  }

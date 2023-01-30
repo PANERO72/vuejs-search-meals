@@ -1,0 +1,46 @@
+{
+    "menu": {
+      "home": "Heim",
+      "search-meals": "Essen Suchen",
+      "meals-by-letter": "Mahlzeiten nach Brief",
+      "meals-by-ingredients": "Mahlzeiten nach Zutaten"
+    },
+    "locale": {
+        "lang": "Deutsch"
+    },
+    "home-page": {
+      "radom-meals-title": "Zufällige Mahlzeiten"
+    },
+    "search-input": {
+        "text-input": "Tippe um zu suchen..."
+    },
+    "search-by-name": {
+      "meals-by-name": "Mahlzeiten mit Namen",
+      "meal-name": "Namen:",
+      "meal-country": "Land:",
+      "watch-on-youtube": "Ansehen auf YouTube",
+      "view-details": "Siehe Details...",
+      "view-source": "Internetseite..."
+    },
+    "search-by-letter": {
+      "meals-by-letter": "Mahlzeiten nach Brief"
+    },
+    "search-by-ingredients": {
+      "meal-by-ingredients": "Mahlzeit nach Zutaten",
+      "not-meals-to-display": "Es gibt keine anzuzeigenden Mahlzeiten!"
+    },
+    "meals-by-ingredients": {
+      "meals-by-ingredients": "Mahlzeiten nach Zutaten",
+      "see-more-link": "Mehr sehen..."
+    },
+    "meals-details": {
+      "page-title": "Einzelheiten zur Mahlzeiten",
+      "meal-name": "Namen:",
+      "meal-category": "Kategorie:",
+      "meal-country": "Land:",
+      "meal-tags": "Stichworte:",
+      "meal-instructions": "Anweisungen:",
+      "meal-ingredients": "Zutaten:",
+      "meal-measures": "Maßnahmen:"
+    }
+  }
